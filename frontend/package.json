@@ -1,0 +1,19 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "bootstrap-vue": "^2.19.0",
+    "core-js": "^3.6.5",
+    "nuxt": "^2.14.6",
+    "vue": "^2.6.12"
+  },
+  "devDependencies": {}
+}
